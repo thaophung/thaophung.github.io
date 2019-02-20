@@ -14,42 +14,42 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Thao Phung
-email: phungpthao at gmail dot com
-description: >- # this means to ignore newlines until "baseurl:"
-    The personal and research blog of Thao Phung
+email: thaopphung at gmail dot com
+description: > # this means to ignore newlines until "baseurl:"
+  The personal and research blog of Thao Phung
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thaophung.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-github_username:  Thao Phung
+#twitter_username: blancemorris
+github_username:  thaopohung
+author: Thao Phung
 
 # Build settings
 markdown: kramdown
-#theme: minima
-#plugins:
-#  - jekyll-feed
-gems: 
-    - jekyll-feed
-    - jekyll-crosspost-to-medium
-exclude:
-    - Gemfile
-
+# theme: minima
 gems:
-    - jekyll-archives
-    - jekyll-paginate
-    - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-crosspost-to-medium
+exclude:
+  - Gemfile
+
+theme: jekyll-whiteglass
+gems:
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
 
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
 paginate: 5
 
 jekyll-archives:
-    enabled:
-        - categories
-    layout: category_archives
-    permalinks:
-        category: /categories/:name/
+  enabled:
+    - categories
+    - tags
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name
 
-        #comments:false
-
-
+comments: false
 

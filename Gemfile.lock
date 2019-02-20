@@ -75,11 +75,14 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.8.5)
+  jekyll (= 3.8.5)
   jekyll-feed (~> 0.6)
   jekyll-whiteglass
   minima (~> 2.0)
   tzinfo-data
+
+RUBY VERSION
+   ruby 2.6.1p33
 
 BUNDLED WITH
    2.0.1
