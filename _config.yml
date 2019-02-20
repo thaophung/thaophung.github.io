@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thaophung.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: blancemorris
-github_username:  thaopohung
+github_username:  thaophung
 author: Thao Phung
 
 # Build settings
@@ -45,11 +45,11 @@ paginate: 5
 jekyll-archives:
   enabled:
     - categories
-    - tags
+      #- tags
   layout: category_archives
   permalinks:
     category: /categories/:name/
-    tag: /tags/:name
+    #tag: /tags/:name
 
 comments: false
 
