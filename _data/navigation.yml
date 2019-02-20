@@ -1,8 +1,8 @@
 # If you want to link only specific pages in your header, add the path to the
 # pages in order as they should show up.
 main:
-  - title: "Resume"
-    url: /resume/
+  - title: "CV"
+    url: /cv/
   - title: "GitHub"
     url: https://github.com/thaophung
   - title: "Projects"
