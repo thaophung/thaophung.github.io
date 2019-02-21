@@ -15,7 +15,7 @@
     year: 2017
     description: |
        Deep neural networks (DNNs) have obtained the state-of-the-art performance on many challenging tasks by learning from only visual inputs such as recognizing and detecting objects from images, playing Atari games from the visual screen, predicting sounds from silent videos and even detecting cancers from medical scans. Given their impressive pattern recognition capability, can DNNs learn to extract the meanings behind visual symbols? In this research, we explore approaches to train DNNs to solve addition and subtraction problems from images of equations. 
-    more_info: "https://drive.google.com/open?id=13SQXUmADbbEwzuxTg3QFIlRf4TwxjP-v"
+    more_info: "https://drive.google.com/open?id=19R5ruhL_sBnWgMcXk-bnzRORDXBeDK0r"
   - title: "Investigation on the Use of Perception Manipulation to Enhance Virtual Reality Training"
     company: "3DiA Lab, University of Wyoming"
     skills: "Virtual Reality, C#, Unity, action-specific perception, presentation, technical writing"
