@@ -10,3 +10,5 @@ permalink: /
 </figure>
 
 I obtained my B.S. in Computer Science at University of Wyoming. I am currently looking for full-time positions in software engineering, data science, or related fields. I have professional experience with machine learning applications and cutting-edge research. You can see my full [resume][resume], or my list of [projects][projects].
+
+Contact: phungpthao[at]gmail[dot]com
