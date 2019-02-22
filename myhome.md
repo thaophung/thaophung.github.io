@@ -14,7 +14,7 @@ I obtained my B.S. in Computer Science from University of Wyoming in December 20
 
 I am currently looking for full-time positions in software engineering, data science, or related fields. I have professional experience with machine learning applications and cutting-edge research.
 
-From 2016 to 2018, I worked as an undergraduate research assistant at [Evolving AI Lab][lab]. I worked with [Anh Nguyen][anh] in [Learning to Solve Symbolic Math from Visual Inputs project][project] in which we studied if deep neural networks (DNNs) can learn to extract the meanings behind visual symbols.
+From 2016 to 2018, I worked as an undergraduate research assistant at [Evolving AI Lab][lab]. I worked with [Anh Nguyen][anh] in [learning to solve symbolic math from visual inputs][project], in which we studied if deep neural networks (DNNs) can learn to extract the meanings behind visual symbols.
 
 
 <!--Contact: phungpthao[at]gmail[dot]com-->
