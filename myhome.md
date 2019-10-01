@@ -7,7 +7,7 @@ permalink: /
 # Welcome
 <figure class="image" style="float:right; width:30%; margin-left:10pt">
 <img style="border-radius:20%;" src="files/avatar.jpg">
-<figcaption style="text-align:center;"><a href="mailto:thaophung502@gmail.com" style="color:black;">phungpthao[at]gmail[dot]com</a></figcaption>
+<figcaption style="text-align:center;"><a href="mailto:thaophung502@gmail.com" style="color:black;">thaophung502[at]gmail[dot]com</a></figcaption>
 </figure>
 <!--I'm a Ph.D. student in computer science at Auburn University, advised by [Wei-Shinn Ku][ku]. My research interests focus on data management and machine learning. 
 
