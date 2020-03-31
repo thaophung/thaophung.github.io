@@ -29,9 +29,11 @@ Hello! I am Thao Phung, a PhD student in Computer Science at Colorado School of 
 
 ## Publications
 - [**Exploring Mixed Reality Robot Communication Under Different types of Mental Workload**][mentalWorkload]
+
 **Authors**: Nhan Tran, Kai Mizuno, Trevor Grant, **Thao Phung**, Leanne Hirshfield, Tom Williams | **Venue**: VAM-HRI 2020
 
 - [**Investigating Confidence-Based Category Transition of Spatial Gestures**][adamWorkshop]
+
 **Authors**: Adam Stogsdill, **Thao Phung**, Tom Williams | **Venue**: HRI-NLG 2020
 
 <!--Contact: phungpthao[at]gmail[dot]com-->
