@@ -6,16 +6,16 @@ permalink: /publications/
 
 # Publications
 
-- [**Exploring Mixed Reality Robot Communication Under Different types of Mental Workload**][mentalWorkload]
+- [**Exploring Mixed Reality Robot Communication Under Different Types of Mental Workload**][mentalWorkload]..
 ...**Authors**: Nhan Tran, Kai Mizuno, Trevor Grant, **Thao Phung**, Leanne Hirshfield, Tom Williams | **Venue**: VAM-HRI 2020
 
-- [**Investigating Confidence-Based Category Transition of Spatial Gestures**][adamWorkshop]
+- [**Investigating Confidence-Based Category Transition of Spatial Gestures**][adamWorkshop]..
 ...**Authors**: Adam Stogsdill, **Thao Phung**, Tom Williams | **Venue**: HRI-NLG 2020
 
-- [**Learning to Solve Symbolic Math from Visual Inputs**][cvpr]
+- [**Learning to Solve Symbolic Math from Visual Inputs**][cvpr]..
 ...**Authors**: **Thao Phung**, Anh Nguyen, Jeff Clune | **Venue**: WiCV-CVPR 2017, WiML-NIPS 2018
 
-- [**Investigation on the Use of Perception Manipulation to Enhance Virtual Reality Training**][rmcwic]
+- [**Investigation on the Use of Perception Manipulation to Enhance Virtual Reality Training**][rmcwic]..
 ...**Authors**: **Thao Phung**, Amy Banic | **Venue**: RMCWIC 2016
 
 
