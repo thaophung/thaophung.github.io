@@ -19,15 +19,20 @@ Before coming to Auburn,I obtained my B.S. in Computer Science from University o
 
 Hello! I am Thao Phung, a PhD student in Computer Science at Colorado School of Mines. I am advised by [Dr. Tom Williams][tom] at the Mines Interactive Robotics Research Lab [MIRRORLab][mirrorlab]. My current research interests include human-robot interaction, augmented reality. 
 
-# Education
+## Education
 - BS in Computer Science, University of Wyoming, 2018
 
-# Research Areas
+## Research Areas
 - Human-Robot Interaction
 - Augmented Reality
 - Cognitive Science
 
-# Publication
+## Publications
+- [**Exploring Mixed Reality Robot Communication Under Different types of Mental Workload**][mentalWorkload]
+**Authors**: Nhan Tran, Kai Mizuno, Trevor Grant, **Thao Phung**, Leanne Hirshfield, Tom Williams | **Venue**: VAM-HRI 2020
+
+- [**Investigating Confidence-Based Category Transition of Spatial Gestures**][adamWorkshop]
+**Authors**: Adam Stogsdill, **Thao Phung**, Tom Williams | **Venue**: HRI-NLG 2020
 
 <!--Contact: phungpthao[at]gmail[dot]com-->
 
@@ -40,3 +45,8 @@ Hello! I am Thao Phung, a PhD student in Computer Science at Colorado School of 
 [ku]: http://auburn.edu/academic/engineering/dslab/
 [tom]: https://people.mines.edu/twilliams/
 [mirrorlab]: https://mirrorlab.mines.edu/
+
+
+<!--PAPERS-->
+[mentalWorkload]: https://mirrorlab.mines.edu/publications/tran2020vamhri/
+[adamWorkshop]: https://mirrorlab.mines.edu/publications/stogsdill2020hrinlg/
