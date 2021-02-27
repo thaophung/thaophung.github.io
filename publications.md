@@ -26,4 +26,4 @@ permalink: /publications/
 [adamWorkshop]: https://mirrorlab.mines.edu/publications/stogsdill2020hrinlg/
 [cvpr]: https://drive.google.com/open?id=19R5ruhL_sBnWgMcXk-bnzRORDXBeDK0r
 [rmcwic]: https://drive.google.com/file/d/1Oe4bZHRxS_AbSMxRBzIGR_4y0he2fcWb/view
-[phunghri2021]: https://mirrorlab.mines.edu/publications/hamilton2021hri/
+[phung2021hri]: https://mirrorlab.mines.edu/publications/hamilton2021hri/

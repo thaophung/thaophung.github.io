@@ -30,7 +30,7 @@ Hello! I am Thao Phung, a PhD student in Computer Science at Colorado School of 
 - Machine Learning
 
 ## Publications
-- [** What's The Point? Tradeoffs Between Effectiveness and Social Perception When Using mixed Reality to Enhance Gesturally Limited Robots**][phunghri2021]
+- [**What's The Point? Tradeoffs Between Effectiveness and Social Perception When Using Mixed Reality to Enhance Gesturally Limited Robots**][phunghri2021]
   **Authors**: Jared Hamilton*, **Thao Phung** (co-first author), Nhan Tran, Tom Williams | **Venue**: HRI 2021
 
 - [**Exploring Mixed Reality Robot Communication Under Different Types of Mental Workload**][mentalWorkload]  
