@@ -26,6 +26,7 @@ Hello! I am Thao Phung, a PhD student in Computer Science at Colorado School of 
 - Human-Robot Interaction
 - Augmented Reality
 - Cognitive Science
+- Machine Learning
 
 ## Publications
 - [** What's The Point? Tradeoffs Between Effectiveness and Social Perception When Using mixed Reality to Enhance Gesturally Limited Robots**][phung2021hri]
