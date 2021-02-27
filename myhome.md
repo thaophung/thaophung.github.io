@@ -20,7 +20,8 @@ Before coming to Auburn,I obtained my B.S. in Computer Science from University o
 Hello! I am Thao Phung, a PhD student in Computer Science at Colorado School of Mines. I am advised by [Dr. Tom Williams][tom] at the Mines Interactive Robotics Research Lab ([MIRRORLab][mirrorlab]). My current research interests include human-robot interaction, augmented reality. 
 
 ## Education
-- BS in Computer Science, University of Wyoming, 2018
+- M.S., Ph.D. in Computer Science, Colorado School of Mines, Current
+- B.S. in Computer Science, University of Wyoming, 2018
 
 ## Research Areas
 - Human-Robot Interaction
