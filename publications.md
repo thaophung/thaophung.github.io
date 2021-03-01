@@ -6,6 +6,7 @@ permalink: /publications/
 
 # Publications
 - [**What's The Point? Tradeoffs Between Effectiveness and Social Perception When Using Mixed Reality to Enhance Gesturally Limited Robots**][phung2021hri]
+
    **Authors**: Jared Hamilton, **Thao Phung** (co-first author), Nhan Tran, Tom Williams | **Venue**: HRI 2021
 
 - [**Exploring Mixed Reality Robot Communication Under Different Types of Mental Workload**][mentalWorkload]  
