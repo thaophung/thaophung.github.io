@@ -24,9 +24,9 @@ Hello! I am Thao Phung, a research assistant in Computer Science at Colorado Sch
 - B.S. in Computer Science, University of Wyoming, 2018
 
 ## Research Areas
-- Human-Robot Interaction
 - Augmented Reality
-- Cognitive Science
+- Data Science
+- Human Robot Interaction
 - Machine Learning
 
 ## Publications
