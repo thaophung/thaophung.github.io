@@ -17,7 +17,7 @@ Before coming to Auburn,I obtained my B.S. in Computer Science from University o
 
 <!--During my undergraduate, I worked as a research assistant at [Evolving AI Lab][lab]. I worked with [Anh Nguyen][anh] in [learning to solve symbolic math from visual inputs][project], in which we studied if deep neural networks (DNNs) can learn to extract the meanings behind visual symbols.-->
 
-Hello! I am Thao Phung, a research assistant in Computer Science at Colorado School of Mines.<!-- I am advised by [Dr. Tom Williams][tom] at the Mines Interactive Robotics Research Lab ([MIRRORLab][mirrorlab])-->. I work as a research assistent at the Mines Interactive Robotics Research Lab ([MIRRORLab][mirrorlab]). My current research interests include augmented reality for human-robot interaction and data science. 
+Hello! I am Thao Phung, a research assistant in Computer Science at Colorado School of Mines.<!-- I am advised by [Dr. Tom Williams][tom] at the Mines Interactive Robotics Research Lab ([MIRRORLab][mirrorlab])-->. I work as a research assistant at the Mines Interactive Robotics Research Lab ([MIRRORLab][mirrorlab]). My current research interests include augmented reality for human-robot interaction and data science. 
 
 ## Education
 - Graduate student in Computer Science, Colorado School of Mines, Current
