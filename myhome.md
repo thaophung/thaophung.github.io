@@ -17,7 +17,7 @@ Before coming to Auburn,I obtained my B.S. in Computer Science from University o
 
 <!--During my undergraduate, I worked as a research assistant at [Evolving AI Lab][lab]. I worked with [Anh Nguyen][anh] in [learning to solve symbolic math from visual inputs][project], in which we studied if deep neural networks (DNNs) can learn to extract the meanings behind visual symbols.-->
 
-Hello! I am Thao Phung. I'm currently working at HarQen as a data scientist and lead the data science team.<!-- I am advised by [Dr. Tom Williams][tom] at the Mines Interactive Robotics Research Lab ([MIRRORLab][mirrorlab])-->  Previously, I worked as a research assistant at the Mines Interactive Robotics Research Lab ([MIRRORLab][mirrorlab]). My previous research was related to machine learnng, deep learning, and augmented reality for human-robot interaction. 
+Hello! I am Thao Phung. I'm currently working at HarQen as a data scientist and lead the data science team.<!-- I am advised by [Dr. Tom Williams][tom] at the Mines Interactive Robotics Research Lab ([MIRRORLab][mirrorlab])-->  Previously, I worked as a research assistant at the Mines Interactive Robotics Research Lab ([MIRRORLab][mirrorlab]). My previous research was related to machine learning, deep learning, and augmented reality for human-robot interaction. 
 
 ## Education
 - M.S. in Data Science, University of Colorado-Boulder, Current
