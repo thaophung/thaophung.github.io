@@ -4,11 +4,13 @@ title: "Thao Phung"
 permalink: /
 ---
 
-# Welcome
-<figure class="image" style="float:right; width:30%; margin-left:10pt">
+<!--# Welcome-->
+/*<figure class="image" style="float:right; width:30%; margin-left:10pt">
 <img style="border-radius:20%;" src="files/avatar.jpg">
 <figcaption style="text-align:center;"><a href="mailto:thaophung502@gmail.com" style="color:black;">thaophung502[at]gmail[dot]com</a></figcaption>
-</figure>
+</figure>*/
+
+
 <!--I'm a Ph.D. student in computer science at Auburn University, advised by [Wei-Shinn Ku][ku]. My research interests focus on data management and machine learning. 
 
 Before coming to Auburn,I obtained my B.S. in Computer Science from University of Wyoming. -->
@@ -17,8 +19,7 @@ Before coming to Auburn,I obtained my B.S. in Computer Science from University o
 
 <!--During my undergraduate, I worked as a research assistant at [Evolving AI Lab][lab]. I worked with [Anh Nguyen][anh] in [learning to solve symbolic math from visual inputs][project], in which we studied if deep neural networks (DNNs) can learn to extract the meanings behind visual symbols.-->
 
-Hello! I am Thao Phung. I'm currently working at HarQen as a data scientist and lead the data science team.<!-- I am advised by [Dr. Tom Williams][tom] at the Mines Interactive Robotics Research Lab ([MIRRORLab][mirrorlab])-->  Previously, I worked as a research assistant at the Mines Interactive Robotics Research Lab ([MIRRORLab][mirrorlab]). My previous research was related to machine learning, deep learning, and augmented reality for human-robot interaction. 
-
+<!--Hello! I am Thao Phung. I'm currently working at HarQen as a data scientist and lead the data science team.I am advised by [Dr. Tom Williams][tom] at the Mines Interactive Robotics Research Lab ([MIRRORLab][mirrorlab])  Previously, I worked as a research assistant at the Mines Interactive Robotics Research Lab ([MIRRORLab][mirrorlab]). My previous research was related to machine learning, deep learning, and augmented reality for human-robot interaction. 
 ## Education
 - M.S. in Data Science, University of Colorado-Boulder, Current
 - B.S. in Computer Science, University of Wyoming, 2018
@@ -40,7 +41,7 @@ Hello! I am Thao Phung. I'm currently working at HarQen as a data scientist and 
 - [**Investigating Confidence-Based Category Transition of Spatial Gestures**][adamWorkshop]  
    **Authors**: Adam Stogsdill, **Thao Phung**, Tom Williams | **Venue**: HRI-NLG 2020
 
-<!--Contact: thaophung502[at]gmail[dot]com-->
+Contact: thaophung502[at]gmail[dot]com-->
 
 
 
